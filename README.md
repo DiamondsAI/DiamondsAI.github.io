@@ -1,3 +1,5 @@
+<div style="font-family: 'Courier New', monospace; background-color: #e0e0e0; padding: 20px;">
+
 # DiamondsAI.github.io
 
 Welcome to the homepage of **Diamonds AI**!
@@ -19,3 +21,5 @@ Stay updated by following us on our social media channels:
 - [LinkedIn](https://www.linkedin.com/company/diamondsai)
 
 Thank you for your interest in Diamonds AI. We look forward to sharing more with you soon!
+
+</div>
