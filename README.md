@@ -28,7 +28,7 @@ Our website is currently under construction as we are creating an enriching onli
 
 ## Contact Us
 
-For more information about our AI systems or to discuss how we can assist your organization, please reach out to us at [contact@diamondsai.com](mailto:contact@diamondsai.com).
+For more information about our AI systems or to discuss how we can assist your organization, please reach out to us at [inquiry.diamondsai@gmail.com](mailto:inquiry.diamondsai@gmail.com).
 
 
 Thank you for your interest in Diamonds AI. We are excited to engage with you and explore how our AI solutions can drive success in your endeavors!
