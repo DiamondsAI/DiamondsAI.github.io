@@ -82,6 +82,16 @@ a:hover {
     background-color: #00AEEF; /* Sky Blue for button hover */
 }
 
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 300 to 700
+
+.quicksand-<uniquifier> {
+  font-family: "Quicksand", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 /* Responsive Typography */
 h1, h2, h3 {
     font-weight: normal;
