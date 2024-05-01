@@ -98,24 +98,3 @@ p {
     margin-bottom: 1em;
 }
 
-.content-container {
-    display: flex;
-    justify-content: space-between;
-}
-
-.content {
-    flex: 1;
-    padding-right: 20px; /* Adds some spacing between the text and the image */
-}
-
-.founders-photo {
-    flex: 1;
-    text-align: right; /* Aligns the image to the right side */
-}
-
-.founders-photo img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px; /* Optional: rounds the corners of the image */
-}
-
